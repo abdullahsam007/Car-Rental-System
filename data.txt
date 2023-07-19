@@ -1,0 +1,8 @@
+vehicle information 
+---------------------
+Number of bikes : 1
+Number of cars : 1
+Number of trucks : 3
+companyName                              typeof  color  powerCC  numberofwheels
+------------------------------------------------------------------------------------------------------------------------------------
+honda                                truck  red  100  6
